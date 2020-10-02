@@ -1,4 +1,4 @@
-package com.Projjal.KPI2
+#package com.Projjal.KPI2
 //Find the number of males and females in each state from the table.
 
 import org.apache.spark.sql.SparkSession
